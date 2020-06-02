@@ -1,4 +1,4 @@
-//Sum to N
+//Palindrome
 import java.util.*;
 class Solution2
 {
